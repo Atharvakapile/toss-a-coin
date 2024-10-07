@@ -1,4 +1,4 @@
-Link: 
+Link: https://atharvakapile.github.io/toss-a-coin/
 
 Toss a Coin - Web Application
 Toss a Coin is a simple, interactive web application that simulates flipping a coin with realistic animations and results. It provides a fun and engaging way to simulate random coin tosses, perfect for games, decision-making, or simply testing your luck!
