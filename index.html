@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toss a Coin</title>
+    <link rel="stylesheet" href="coin.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Toss a Coin</h1>
+        <div class="coin-container">
+            <div class="coin" id="coin">
+                <div class="heads" id="heads">
+                    <img src="shinchan.png" alt="shinchan">
+                </div>
+                <div class="tails" id="tails">
+                    <img src="poke.png" alt="pokemon">
+                </div>
+            </div>
+        </div>
+        <button onclick="tossCoin()">Toss the Coin</button>
+        <div class="result-card" id="result-card">
+            <div class="result" id="result">Result will appear here</div>
+        </div>
+    </div>
+    <script src="coin.js"></script>
+</body>
+</html>
